@@ -1,0 +1,8 @@
+jmeter.users=1
+jmeter.rampup=1
+jmeter.loopcount=1
+
+site.protocol=https
+site.hostname=magento.test
+
+user.email=m2loadtest@mailinator.com
